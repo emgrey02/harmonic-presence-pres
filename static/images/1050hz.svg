@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="121" height="121" viewBox="0 0 121 121" xml:space="preserve">
-<desc>Created with Fabric.js 3.6.3</desc>
-<defs>
-</defs>
-<g transform="matrix(1.46 0 0 1.46 60.9 60.9)"  >
-<circle style="stroke: rgb(90,130,155); stroke-width: 5; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(173,224,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="40" />
-</g>
-<g transform="matrix(1 0 0 1 60.5 58.63)" style=""  >
-		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="25" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-46.91" y="7.85" >1050 Hz</tspan></text>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="121" version="1.1" viewBox="0 0 121 121" xml:space="preserve"><desc>Created with Fabric.js 3.6.3</desc><g transform="matrix(1.46 0 0 1.46 60.9 60.9)"><circle style="stroke:#5a829b;stroke-width:5;stroke-dasharray:none;stroke-linecap:butt;stroke-dashoffset:0;stroke-linejoin:miter;stroke-miterlimit:4;fill:#ade0ff;fill-rule:nonzero;opacity:1" cx="0" cy="0" r="40" vector-effect="non-scaling-stroke"/></g><g><text font-family="'Open Sans', sans-serif" font-size="25" font-style="normal" font-weight="normal" transform="matrix(1 0 0 1 60.5 58.63)" xml:space="preserve" style="stroke:none;stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-dashoffset:0;stroke-linejoin:miter;stroke-miterlimit:4;fill:#000;fill-rule:nonzero;opacity:1;white-space:pre"><tspan x="-46.91" y="7.85">1050 Hz</tspan></text></g></svg>
